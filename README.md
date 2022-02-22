@@ -15,6 +15,12 @@
 </h2>
 <p>Sejarah Perkembangan teknologi VoIP dimulai dari penemuan telepon pada tahun 1876 oleh Alexander Graham Bell. Kemudian dikembangkan lagi teknologi PSTN ( Public Switched Telephone Network ) yang sudah berkembang sampai sekarang. Beberapa tahun kemudian mulai berkembang teknologi yang baru. Pembuatan Personal Computer (PC) secara massal, system komunikasi telepon selular dan terakhir system berdasarkan jaringan internet yang memberikan layanan e-mail, Chat dan lain-lain.Teknologi VoIP diperkenalkan setelah internet mulai berkembang sekitar tahun 1995. Pada mulanya kemampuan mengirimkan suara melalui internet hanya merupakan eksperimen dari beberapa orang atau perusahaan kecil. Ini dimulai dengan perusahaan seperti Vocaltech dan kemudian pada akhirnya diikuti oleh Microsoft dengan program Netmeeting-nya. Pada saat itu jaringan komputer internet masih sangat lambat. Di rumah-rumah (khususnya di Amerika) masih digunakan dial up dengan kecepatan 36,6 Kbyte. Backbone Internet pun masih kecil. Aplikasi yang bersifat menghabiskan bandwith, seperti misalnya suara atau video, masih sangat terbatas penggunaannya di pusat penelitian yang memiliki bandwidth besar.</p>
 <h2 dir="auto">
+  <strong>Kelebihan Asterisk</strong>
+</h2>
+<p>1. Dapat jalan dibanyak platform OS</p>
+<p>2. Dapat melakukan koneksi pada semua standar yang berbasis telepon</p>
+<p>3. menggunakan hardware yang harganya terjangkau</p>
+<h2 dir="auto">
   <strong>Cara menginstall Asterisk</strong>
 </h2>
 <p><strong>Kesatu:</strong> untuk menginstall Asterisk ketikan perintah yang ada dibawah ini.</p>
