@@ -57,4 +57,5 @@
 </svg>
     </clipboard-copy>
   </div></div>
+<p><Marquee>Semoga bermanfaat</marquee></p>
 
