@@ -1,0 +1,2 @@
+# asterisk
+Cara menginstall asterisk
