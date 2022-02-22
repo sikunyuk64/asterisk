@@ -83,7 +83,7 @@
   </div></div>
 <p><strong>Ketujuh:</strong> nah sampai disini tahapan proses instalasi dan konfigurasi Asterisknya sudah selesai.</p>
 <br>
-<p><strong>Semoga bermanfaat</strong>👍🏻</p>
+<p>Cukup sekian tutorial dari saya<strong> semoga bermanfaat</strong>👍🏻</p>
 
 
 
