@@ -57,6 +57,7 @@
 </svg>
     </clipboard-copy>
   </div></div>
-<hr>
 <p><strong>Semoga bermanfaat</stro>👍🏻</p>
-<hr>
+<br>
+<p> Apabila teman teman ingin melihat tutorial yang lainnya bisa klik link dibawah ini</p>
+
