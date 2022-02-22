@@ -28,7 +28,7 @@
 </h2>
 <p>sangat rentang terhadap aktivitas intruder</p>
 <h2 dir="auto">
-  <strong>Cara menginstall Asterisk</strong>
+  <strong>🛠️ Cara menginstall Asterisk</strong>
 </h2>
 <p><strong>Kesatu:</strong> untuk menginstall Asterisk ketikan perintah yang ada dibawah ini.</p>
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>apt-get install asterisk -y
