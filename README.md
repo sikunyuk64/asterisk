@@ -2,7 +2,7 @@
   <strong>Asterisk</strong>
 </h2>
 <p dir="auto"><a target="_blank" rel="href="https://github.com/FluxionNetwork/fluxion/raw/master/logos/logo.jpg"><img src="https://github.com/sikunyuk64/asterisk/blob/main/Asterisk_Logo-700x438.png" style="max-width: 100%;"></a></p>
-<p><code>Asterisk adalah implementasi perangkat lunak dari private branch exchange, sehubungan dengan antarmuka perangkat keras telepon dan aplikasi jaringan yang sesuai, Asterisk digunakan untuk membuat dan mengontrol panggilan telepon antara titik akhir telekomunikasi, seperti perangkat telepon biasa, tujuan dijaringan telepon umum (PSTN), dan perangkat atau layanan pada protokol suara melalui internet.</code></p>
+<p>Asterisk adalah implementasi perangkat lunak dari private branch exchange, sehubungan dengan antarmuka perangkat keras telepon dan aplikasi jaringan yang sesuai, Asterisk digunakan untuk membuat dan mengontrol panggilan telepon antara titik akhir telekomunikasi, seperti perangkat telepon biasa, tujuan dijaringan telepon umum (PSTN), dan perangkat atau layanan pada protokol suara melalui internet.</p>
 <h2 dir="auto">
   <strong>Cara menginstall Asterisk</strong>
 </h2>
