@@ -10,5 +10,4 @@ Cara menginstall Asterisk
 <p>4. Selanjutnya konfigurasikan file extensions.conf dengan mengetikan <code>nano /etc/asterisk/extensions.conf</code></p>
 <p>5. Langkah selanjutnya tambahkan rules baru di baris paling bawah</p>
 <p>> <a href="https://github.com/sikunyuk64/asterisk/blob/main/extensions.conf">Rules</a></p>
-<p>Restart Asterisk</p>
-<p><code>systemctl restart asterisk</code></p>
+<p>6. Setelah proses instalasi dan konfigurasi selesai, restart Asterisk dengan mengetikan <code>systemctl restart asterisk</code></p>
