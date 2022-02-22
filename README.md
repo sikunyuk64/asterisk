@@ -57,7 +57,9 @@
 </svg>
     </clipboard-copy>
   </div></div>
-<p><strong>Semoga bermanfaat</strong>👍🏻</p>
-<br>
 <p> Apabila teman teman ingin melihat tutorial yang lainnya bisa klik link dibawah ini</p>
+<br>
+<p><strong>Semoga bermanfaat</strong>👍🏻</p>
+
+
 
