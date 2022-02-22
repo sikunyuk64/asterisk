@@ -4,7 +4,6 @@
 <p dir="auto">
   <strong>• Pendahuluan</strong>
 </p>
-
 <h2 dir="auto">
   <strong>Asterisk</strong>
 </h2>
