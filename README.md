@@ -1,4 +1,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/FluxionNetwork/fluxion/raw/master/logos/logo.jpg"><img src="https://github.com/sikunyuk64/asterisk/blob/main/Asterisk_Logo-700x438.png" style="max-width: 100%;"></a></p>
+<p for="auto>
+<strong><a href="https://github.com/sikunyuk64/asterisk#--asterisk">Pengertian Asterisk</a></strong>
+<p>
 <h2 dir="auto">
   <strong>Asterisk</strong>
 </h2>
