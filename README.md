@@ -7,8 +7,7 @@
   <strong>Cara menginstall Asterisk</strong>
 </h2>
 <p>1. Untuk menginstall Asterisk ketikan tunggu beberapa saat sampai proses instalasi selesai.</p>
-<div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>cd bin/arch
-makepkg
+<div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>apt-get install asterisk -y
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd bin/arch
 makepkg" tabindex="0" role="button">
