@@ -7,9 +7,11 @@
   <strong>Cara menginstall Asterisk</strong>
 </h2>
 <p>1. Untuk menginstall Asterisk ketikan tunggu beberapa saat sampai proses instalasi selesai.</p>
-<pre>
- <code>apt-get install asterisk -y</code> 
-</pre>
+<div class="snippet-clipboard-content position-relative overflow-auto">
+  <pre>
+  <code>apt-get install asterisk -y </code>
+  </pre>
+  <div class="zeroclipboard-container position-absolute right-0 top-0">
 <p>2. Selanjutnya konfigurasikan file sip.conf dengan mengetikan <code>nano /etc/asterisk/sip.conf</code>.</p>
 <p>3. Langkah selanjutnya tambahkan rules baru di baris paling bawah.</p>
 <p>> <a href="https://github.com/sikunyuk64/asterisk/blob/main/sip.conf">Rules</a></p>
