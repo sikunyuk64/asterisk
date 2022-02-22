@@ -32,7 +32,7 @@
     </clipboard-copy>
   </div></div>
 <p><strong>3. Kemudian tambahkan <a href="https://github.com/sikunyuk64/asterisk/blob/main/sip.conf">rules</a> baru di baris paling bawah, kemudian kalian save konfigurasinya dengan menekan tombol <code>ctrl+x</code> kemudian tekan <code>y</code> lalu <code>Enter</code>.</strong></p>
-<p></strong>4. Selanjutnya konfigurasikan file extensions.conf dengan mengetikan perintah dibawah ini.</strong></p>
+<p><strong>4. Selanjutnya konfigurasikan file extensions.conf dengan mengetikan perintah dibawah ini.</strong></p>
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>nano /etc/asterisk/extensions.conf
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="nano /etc/asterisk/extensions.conf" tabindex="0" role="button">
@@ -45,7 +45,7 @@
     </clipboard-copy>
   </div></div>
 <p><strong>5. Kemudian tambahkan <a href="https://github.com/sikunyuk64/asterisk/blob/main/extensions.conf">rules</a> baru di baris paling bawah, kemudian kalian save konfigurasinya dengan menekan tombol <code>ctrl+x</code> kemudian tekan <code>y</code> lalu <code>Enter</code>.</strong></p>
-<p><stro>6. Setelah proses instalasi dan konfigurasi selesai, restart Asterisk dengan mengetikan perintah dibawah ini.</strong></p>
+<p><strong>6. Setelah proses instalasi dan konfigurasi selesai, restart Asterisk dengan mengetikan perintah dibawah ini.</strong></p>
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>systemctl restart asterisk
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="systemctl restart asterisk" tabindex="0" role="button">
