@@ -17,9 +17,9 @@
 <h2 dir="auto">
   <strong>Kelebihan Asterisk</strong>
 </h2>
-<p>1. Dapat jalan dibanyak platform OS</p>
-<p>2. Dapat melakukan koneksi pada semua standar yang berbasis telepon</p>
-<p>3. menggunakan hardware yang harganya terjangkau</p>
+<p>• Dapat jalan dibanyak platform OS</p>
+<p>• Dapat melakukan koneksi pada semua standar yang berbasis telepon</p>
+<p>• menggunakan hardware yang harganya terjangkau</p>
 <h2 dir="auto">
   <strong>Cara menginstall Asterisk</strong>
 </h2>
