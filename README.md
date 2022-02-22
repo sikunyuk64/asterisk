@@ -1,14 +1,12 @@
 <h2 dir="auto">
   <strong>DAFTAR ISI</strong>
 </h2>
-<p dir="auto">
-  <strong>• Pendahuluan</strong>
-  <strong>• Pengertian Asterisk</strong>
-  <strong>• Sejarah Asterisk</strong>
-  <strong>• Kelebihan Asterisk</strong>
-  <strong>• Kekurangan Asterisk</strong>
-  <strong>• Cara menginstal Asterisk</strong>
-</p>
+<p><strong>• Pendahuluan</strong></p>
+<p><strong>• Pengertian Asterisk</strong></p>
+<p><strong>• Sejarah Asterisk</strong></p>
+<p><strong>• Kelebihan Asterisk</strong></p>
+<p><strong>• Kekurangan Asterisk</strong>
+<p><strong>• Cara menginstal Asterisk</strong></p>
 <h2 dir="auto">
   <strong>Asterisk</strong>
 </h2>
