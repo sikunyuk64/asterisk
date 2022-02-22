@@ -3,6 +3,11 @@
 </h2>
 <p dir="auto">
   <strong>• Pendahuluan</strong>
+  <strong>• Pengertian Asterisk</strong>
+  <strong>• Sejarah Asterisk</strong>
+  <strong>• Kelebihan Asterisk</strong>
+  <strong>• Kekurangan Asterisk</strong>
+  <strong>• Cara menginstal Asterisk</strong>
 </p>
 <h2 dir="auto">
   <strong>Asterisk</strong>
