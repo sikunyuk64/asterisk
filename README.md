@@ -44,7 +44,7 @@
 </svg>
     </clipboard-copy>
   </div></div>
-<p>5. Kemudian tambahkan <a href="https://github.com/sikunyuk64/asterisk/blob/main/extensions.conf">rules</a> baru di baris paling bawah.</p>
+<p>5. Kemudian tambahkan <a href="https://github.com/sikunyuk64/asterisk/blob/main/extensions.conf">rules</a> baru di baris paling bawah, kemudian kalian save konfigurasinya dengan menekan tombol <code>ctrl+x</code> kemudian tekan <code>y</code> lalu <code>Enter</code>.</p>
 <p>6. Setelah proses instalasi dan konfigurasi selesai, restart Asterisk dengan mengetikan perintah dibawah ini.</p>
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>systemctl restart asterisk
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
