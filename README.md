@@ -1,7 +1,7 @@
+<p dir="auto"><a target="_blank" rel="href="https://github.com/FluxionNetwork/fluxion/raw/master/logos/logo.jpg"><img src="https://github.com/sikunyuk64/asterisk/blob/main/Asterisk_Logo-700x438.png" style="max-width: 100%;"></a></p>
 <h2 dir="auto">
   <strong>Asterisk</strong>
 </h2>
-<p dir="auto"><a target="_blank" rel="href="https://github.com/FluxionNetwork/fluxion/raw/master/logos/logo.jpg"><img src="https://github.com/sikunyuk64/asterisk/blob/main/Asterisk_Logo-700x438.png" style="max-width: 100%;"></a></p>
 <p>Asterisk adalah software IP PBX untuk membuat sistem layanan komunikasi telepon melalui internet atau biasa disebut VoIP (Voice over Internet Protocol). Asterisk adalah software Open Source yang berjalan di linux. Asterisk juga memungkinkan komunikasi antar pengguna telepon regular dengan telepon berbasis sip (sip phones). Asterisk juga sudah dilengkapi banyak fitur baik standard yaitu seperti: Caller ID, Voice Mail, Conference, dan lain-lain.</p>
 <h2 dir="auto">
   <strong>Cara menginstall Asterisk</strong>
