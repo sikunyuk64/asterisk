@@ -18,7 +18,7 @@
 </svg>
     </clipboard-copy>
   </div></div>
- <p>Tunggu beberapa saat sampai proses installasi selesai.</p>
+ <p><strong>Tunggu beberapa saat sampai proses installasi selesai.</strong></p>
 <p><strong>2. Selanjutnya konfigurasikan file sip.conf dengan mengetikan perintah dibawah ini.</strong></p>
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>nano /etc/asterisk/sip.conf
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
