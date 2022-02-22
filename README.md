@@ -19,7 +19,7 @@
     </clipboard-copy>
   </div></div>
  <p>Tunggu beberapa saat sampai proses installasi selesai.</p>
-<p>[2] selanjutnya konfigurasikan file sip.conf dengan mengetikan perintah dibawah ini.</p>
+<p><strong>Kedua:</strong> selanjutnya konfigurasikan file sip.conf dengan mengetikan perintah dibawah ini.</p>
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>nano /etc/asterisk/sip.conf
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="nano /etc/asterisk/sip.conf" tabindex="0" role="button">
@@ -31,8 +31,8 @@
 </svg>
     </clipboard-copy>
   </div></div>
-<p>[3] kemudian tambahkan <a href="https://github.com/sikunyuk64/asterisk/blob/main/sip.conf">rules</a> baru di baris paling bawah, kemudian kalian save konfigurasinya dengan menekan tombol <code>ctrl+x</code> kemudian tekan <code>y</code> lalu <code>Enter</code>.</p>
-<p>[4] selanjutnya konfigurasikan file extensions.conf dengan mengetikan perintah dibawah ini.</p>
+<p><strong>Ketiga:</strong> kemudian tambahkan <a href="https://github.com/sikunyuk64/asterisk/blob/main/sip.conf">rules</a> baru di baris paling bawah, kemudian kalian save konfigurasinya dengan menekan tombol <code>ctrl+x</code> kemudian tekan <code>y</code> lalu <code>Enter</code>.</p>
+<p><strong>Keempat:</strong> selanjutnya konfigurasikan file extensions.conf dengan mengetikan perintah dibawah ini.</p>
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>nano /etc/asterisk/extensions.conf
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="nano /etc/asterisk/extensions.conf" tabindex="0" role="button">
@@ -44,8 +44,8 @@
 </svg>
     </clipboard-copy>
   </div></div>
-<p>[5] kemudian tambahkan <a href="https://github.com/sikunyuk64/asterisk/blob/main/extensions.conf">rules</a> baru di baris paling bawah, kemudian kalian save konfigurasinya dengan menekan tombol <code>ctrl+x</code> kemudian tekan <code>y</code> lalu <code>Enter</code>.</p>
-<p>[6] setelah proses instalasi dan konfigurasi selesai, restart Asterisk dengan mengetikan perintah dibawah ini.</p>
+<p><strong>Kelima:</strong> kemudian tambahkan <a href="https://github.com/sikunyuk64/asterisk/blob/main/extensions.conf">rules</a> baru di baris paling bawah, kemudian kalian save konfigurasinya dengan menekan tombol <code>ctrl+x</code> kemudian tekan <code>y</code> lalu <code>Enter</code>.</p>
+<p><strong>Keenam:</strong> setelah proses instalasi dan konfigurasi selesai, restart Asterisk dengan mengetikan perintah dibawah ini.</p>
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>systemctl restart asterisk
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="systemctl restart asterisk" tabindex="0" role="button">
@@ -57,7 +57,7 @@
 </svg>
     </clipboard-copy>
   </div></div>
-<p[7] nah sampai disini tahapan proses instalasi dan konfigurasi Asterisknya sudah selesai.</p>
+<p><strong>Ketujuh:</strong> nah sampai disini tahapan proses instalasi dan konfigurasi Asterisknya sudah selesai.</p>
 <br>
 <p><strong>Semoga bermanfaat</strong>👍🏻</p>
 
