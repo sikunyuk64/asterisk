@@ -82,7 +82,9 @@
     </clipboard-copy>
   </div></div>
 <p><strong>Ketujuh:</strong> nah sampai disini tahapan proses instalasi dan konfigurasi Asterisknya sudah selesai.</p>
-<br>
+<h2 dir="auto">
+  <strong>🚪 Penutup</strong>
+</h2>
 <p>Cukup sekian tutorial dari saya<strong> semoga bermanfaat</strong>👍🏻</p>
 
 
