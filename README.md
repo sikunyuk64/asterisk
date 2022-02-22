@@ -21,6 +21,10 @@
 <p><strong>•</strong> Dapat melakukan koneksi pada semua standar yang berbasis telepon</p>
 <p><strong>•</strong> menggunakan hardware yang harganya terjangkau</p>
 <h2 dir="auto">
+  <strong>Kekurangan Asterisk</strong>
+</h2>
+<p>sangat rentang terhadap aktivitas intruder</p>
+<h2 dir="auto">
   <strong>Cara menginstall Asterisk</strong>
 </h2>
 <p><strong>Kesatu:</strong> untuk menginstall Asterisk ketikan perintah yang ada dibawah ini.</p>
