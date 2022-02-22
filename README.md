@@ -10,7 +10,7 @@
   <strong>☎️ Asterisk</strong>
 </h2>
 <p dir="auto">
-<p style="text-align:justify">Asterisk adalah software IP PBX untuk membuat sistem layanan komunikasi telepon melalui internet atau biasa disebut VoIP (Voice over Internet Protocol). Asterisk adalah software Open Source yang berjalan di linux. Asterisk juga memungkinkan komunikasi antar pengguna telepon regular dengan telepon berbasis sip (sip phones). Asterisk juga sudah dilengkapi banyak fitur baik standard yaitu seperti: Caller ID, Voice Mail, Conference, dan lain-lain.</p>
+<p style="text-align:right">Asterisk adalah software IP PBX untuk membuat sistem layanan komunikasi telepon melalui internet atau biasa disebut VoIP (Voice over Internet Protocol). Asterisk adalah software Open Source yang berjalan di linux. Asterisk juga memungkinkan komunikasi antar pengguna telepon regular dengan telepon berbasis sip (sip phones). Asterisk juga sudah dilengkapi banyak fitur baik standard yaitu seperti: Caller ID, Voice Mail, Conference, dan lain-lain.</p>
 </p>
 <h2 dir="auto">
   <strong>📅 Sejarah Asterisk</strong>
