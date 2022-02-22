@@ -57,6 +57,7 @@
 </svg>
     </clipboard-copy>
   </div></div>
+<p>7. Nah sampai disini tahapan proses instalasi dan konfigurasi Asterisknya sudah selesai, sekarang kalian bisa menggunakan layanan asterisk</p>
 <p> Apabila teman teman ingin melihat tutorial yang lainnya bisa klik link dibawah ini</p>
 <br>
 <p><strong>Semoga bermanfaat</strong>👍🏻</p>
