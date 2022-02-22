@@ -1,5 +1,7 @@
 <img src="https://github.com/sikunyuk64/asterisk/blob/main/Asterisk_Logo-700x438.png" width="350" heiht="150">
-<h3>Asterisk</h3>
+<p dir="auto">
+  <strong>Asterisk</strong>
+</p>
 <p>Asterisk adalah implementasi perangkat lunak dari private branch exchange. Sehubungan dengan antarmuka perangkat keras telepon dan aplikasi jaringan yang sesuai, Asterisk digunakan untuk membuat dan mengontrol panggilan telepon antara titik akhir telekomunikasi, seperti perangkat telepon biasa, tujuan dijaringan telepon umum (PSTN), dan perangkat atau layanan pada protokol suara melalui internet.</p>
 <p dir="auto">
   <strong>Cara menginstall Asterisk</strong>
