@@ -1,12 +1,12 @@
 <h2 dir="auto">
   <strong>DAFTAR ISI</strong>
 </h2>
-<p><strong>• Pendahuluan</strong></p>
-<p><strong>• Pengertian Asterisk</strong></p>
-<p><strong>• Sejarah Asterisk</strong></p>
-<p><strong>• Kelebihan Asterisk</strong></p>
-<p><strong>• Kekurangan Asterisk</strong>
-<p><strong>• Cara menginstal Asterisk</strong></p>
+<p>a href="#">Pendahuluan</a>
+<p>a href="https://github.com/sikunyuk64/asterisk#--asterisk">Pengertian Asterisk</a>
+<p>a href="https://github.com/sikunyuk64/asterisk#--sejarah-asterisk">Sejarah Asterisk</a>
+<p>a href="https://github.com/sikunyuk64/asterisk#--kelebihan-asterisk">Kelebihan Asterisk</a>
+<p>a href="https://github.com/sikunyuk64/asterisk#--kekurangan-asterisk">Kekurangan Asterisk</a>
+<p>a href="https://github.com/sikunyuk64/asterisk#--cara-menginstall-asterisk">Cara menginstal Asterisk</a>
 <h2 dir="auto">
   <strong>Asterisk</strong>
 </h2>
