@@ -19,7 +19,7 @@
     </clipboard-copy>
   </div></div>
  <p>Tunggu beberapa saat sampai proses installasi selesai.</p>
-<p><strong>2. Selanjutnya konfigurasikan file sip.conf dengan mengetikan perintah dibawah ini.</strong></p>
+<p>2. Selanjutnya konfigurasikan file sip.conf dengan mengetikan perintah dibawah ini.</p>
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>nano /etc/asterisk/sip.conf
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="nano /etc/asterisk/sip.conf" tabindex="0" role="button">
