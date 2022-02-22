@@ -8,7 +8,7 @@
 <p><strong>><a href="https://github.com/sikunyuk64/asterisk#--kekurangan-asterisk"> Kekurangan Asterisk</a></strong></p>
 <p><strong>><a href="https://github.com/sikunyuk64/asterisk#--cara-menginstall-asterisk"> Cara menginstal Asterisk</a></strong></p>
 <h2 dir="auto">
-  <strong>Asterisk</strong>
+  <strong>Asterisk <a href="https://github.com/sikunyuk64/asterisk#--daftar-isi">Home</a></strong>
 </h2>
 <p dir="auto">
 <p>Asterisk adalah software IP PBX untuk membuat sistem layanan komunikasi telepon melalui internet atau biasa disebut VoIP (Voice over Internet Protocol). Asterisk adalah software Open Source yang berjalan di linux. Asterisk juga memungkinkan komunikasi antar pengguna telepon regular dengan telepon berbasis sip (sip phones). Asterisk juga sudah dilengkapi banyak fitur baik standard yaitu seperti: Caller ID, Voice Mail, Conference, dan lain-lain.</p>
