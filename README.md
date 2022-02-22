@@ -1,5 +1,5 @@
 <h2 dir="auto">
-  <strong>DAFTAR ISI</strong>
+  <strong>📁 DAFTAR ISI</strong>
 </h2>
 <p><strong>><a href="#"> Pendahuluan</a></strong></p>
 <p><strong>><a href="https://github.com/sikunyuk64/asterisk#--asterisk"> Pengertian Asterisk</a></strong></p>
