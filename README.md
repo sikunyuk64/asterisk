@@ -1,8 +1,3 @@
-<h2 dir="auto">
-  <strong>Daftar isi</strong>
-</h2>
-<p>• <a href="https://github.com/sikunyuk64/asterisk#--asterisk">Pengertian Asterisk</a></p>
-<p>• <a href="https://github.com/sikunyuk64/asterisk#--cara-menginstall-asterisk">Cara menginstal Asterisk</a></p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/FluxionNetwork/fluxion/raw/master/logos/logo.jpg"><img src="https://github.com/sikunyuk64/asterisk/blob/main/Asterisk_Logo-700x438.png" style="max-width: 100%;"></a></p>
 <h2 dir="auto">
   <strong>Asterisk</strong>
