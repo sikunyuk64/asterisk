@@ -31,8 +31,7 @@
 </svg>
     </clipboard-copy>
   </div></div>
-<p>Kemudian tambahkan rules baru di baris paling bawah.</p>
-<p>> <a href="https://github.com/sikunyuk64/asterisk/blob/main/sip.conf">Rules</a></p>
+<p>Kemudian tambahkan <a href="https://github.com/sikunyuk64/asterisk/blob/main/sip.conf">Rules</a> baru di baris paling bawah.</p>
 <p>3. Selanjutnya konfigurasikan file extensions.conf dengan mengetikan perintah dibawah ini
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>nano /etc/asterisk/extensions.conf
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
@@ -45,8 +44,7 @@
 </svg>
     </clipboard-copy>
   </div></div>
-<p>Kemudian tambahkan rules baru di baris paling bawah.</p>
-<p>> <a href="https://github.com/sikunyuk64/asterisk/blob/main/extensions.conf">Rules</a></p>
+<p>Kemudian tambahkan <a href="https://github.com/sikunyuk64/asterisk/blob/main/extensions.conf">Rules</a> baru di baris paling bawah.</p>
 <p>4. Setelah proses instalasi dan konfigurasi selesai, restart Asterisk dengan mengetikan perintah dibawah ini.</p>
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>systemctl restart asterisk
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
