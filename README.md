@@ -20,9 +20,9 @@
 <h2 dir="auto">
   <strong>{+} Kelebihan Asterisk</strong>
 </h2>
-<p><strong>•</strong> Dapat jalan dibanyak platform OS</p>
-<p><strong>•</strong> Dapat melakukan koneksi pada semua standar yang berbasis telepon</p>
-<p><strong>•</strong> menggunakan hardware yang harganya terjangkau</p>
+<p><strong>Pertama:</strong> Dapat jalan dibanyak platform OS</p>
+<p><strong>Kedua:</strong> Dapat melakukan koneksi pada semua standar yang berbasis telepon</p>
+<p><strong>Ketiga:</strong> menggunakan hardware yang harganya terjangkau</p>
 <h2 dir="auto">
   <strong>{-} Kekurangan Asterisk</strong>
 </h2>
