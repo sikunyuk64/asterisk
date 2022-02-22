@@ -10,3 +10,4 @@ Cara menginstall Asterisk
 <p>> <a href="https://github.com/sikunyuk64/asterisk/blob/main/sip.conf">Rules</a></p>
 <h3>Konfigurasi Asterisk extensions.conf</h3>
 <p>Langkah selanjutnya tambahkan rules baru di baris paling bawah</p>
+<p>> <a href="https://github.com/sikunyuk64/asterisk/blob/main/extensions.conf">Rules</a></p>
