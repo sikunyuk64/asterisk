@@ -6,7 +6,7 @@
 <h2 dir="auto">
   <strong>Cara menginstall Asterisk</strong>
 </h2>
-<p><strong>[1]</strong> untuk menginstall Asterisk ketikan perintah yang ada dibawah ini.</p>
+<p><strong>[1] untuk menginstall Asterisk ketikan perintah yang ada dibawah ini.</strong></p>
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>apt-get install asterisk -y
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="apt-get install astersik -y" tabindex="0" role="button">
