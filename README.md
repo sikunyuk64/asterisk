@@ -57,5 +57,5 @@
 </svg>
     </clipboard-copy>
   </div></div>
-<p><strong>Semoga bermanfaat</stro></p>
+<p><strong>Semoga bermanfaat</stro>👍🏻</p>
 
