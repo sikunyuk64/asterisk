@@ -7,4 +7,4 @@ Cara menginstall Asterisk
 <h3>Konfigurasi Asterisk-sip.conf</h3>
 <p><code>nano /etc/asterisk/sip.conf</code></p>
 <p>Langkah selanjutnya tambahkan rules baru di baris paling bawah</p>
-<p>><a href="https://github.com/sikunyuk64/asterisk/blob/main/sip.conf">Rules</a></p>
+<p>=> <a href="https://github.com/sikunyuk64/asterisk/blob/main/sip.conf">Rules</a></p>
