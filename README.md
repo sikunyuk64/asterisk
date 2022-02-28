@@ -3,7 +3,7 @@
 </h2>
 <p><strong>•<a href="https://github.com/sikunyuk64/asterisk/blob/main/README.md#--asterisk"> Pengertian Asterisk</a></strong></p>
 <p><strong>•<a href="https://github.com/sikunyuk64/asterisk/blob/main/README.md#--sejarah-asterisk"> Sejarah Asterisk</a></strong></p>
-<p><strong>•<a href="https://github.com/sikunyuk64/asterisk#---kelebihan-asterisk"> Kelebihan Asterisk</a></strong></p>
+<p><strong>•<a href="https://github.com/sikunyuk64/asterisk/blob/main/README.md#--kelebihan-asterisk"> Kelebihan Asterisk</a></strong></p>
 <p><strong>•<a href="https://github.com/sikunyuk64/asterisk#----kekurangan-asterisk"> Kekurangan Asterisk</a></strong></p>
 <p><strong>•<a href="https://github.com/sikunyuk64/asterisk#--%EF%B8%8F-instalasi-asterisk"> Cara menginstal Asterisk</a></strong></p>
 <h2 dir="auto">
